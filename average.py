@@ -9,3 +9,5 @@ def average(numbers):
 
 if __name__ == "__main__":
     print(average([10, 20, 30]))
+print("추가 테스트:", average([80, 90, 100]))
+
